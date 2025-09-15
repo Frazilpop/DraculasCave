@@ -1962,3 +1962,18 @@ h3 {
         padding-bottom: 12px;
     }
 }
+.steam-widget {
+    width: 720px;
+    height: 190px;
+}
+@media (max-width: 720px) {
+    .steam-widget {
+        max-width: 100%;
+        min-width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+}
