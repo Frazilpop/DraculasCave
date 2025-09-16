@@ -1,0 +1,62 @@
+.container-c {
+    background: #262e2f;
+}
+.main-title-ul {
+  border-bottom: 2px white solid;
+}
+.home-button {
+
+  border: 1px solid white;
+  color: white;
+
+}
+.feature-image-960 {
+    background: #303030;
+}
+body {
+    background: #262e2f !important;
+    color: white !important;
+
+}
+
+.copywright {
+    background: #262e2f;
+
+}
+.sign-up-box {
+    color: black !important;
+
+}
+
+.button:hover {
+    background-color: #503e73 !important;
+}
+
+
+.blog-title {
+    color: white !important;
+}
+
+.sign-up-form {
+
+    background: white !important;
+}
+
+.article-title {
+    color: white;
+}
+
+.text-block {
+    color: white;
+    font-weight: 800;
+}
+
+.sub-title {
+    color: white;
+}
+.dev-title {
+    color: white;
+}
+.outline-sign-up-box {
+    border: 2px solid white;
+}
