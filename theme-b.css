@@ -2,7 +2,6 @@
 body {
     font-family: "Nunito","Helvetica Neue",Helvetica,Arial,sans-serif !important;
     font-weight: 400;
-    font-size: 110% !important;
 }
 .text-block-110 {
     margin-left: auto;
@@ -13,12 +12,7 @@ body {
         font-size: 110%;
         line-height: 1.75rem;
     }
-    .article-set-title {
-        font-size: 110%;
-    }
-    .article-set-title {
-        font-size: 120% !important;
-    }
+
 }
 .sign-up-box {
     color: black !important;
