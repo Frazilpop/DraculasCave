@@ -13,6 +13,14 @@
 .feature-image-960 {
     background: #303030;
 }
+.top-c {
+    color: black !important;
+}
+.top-button {
+    border: 1px solid black !important;
+    color: black !important;
+
+}
 body {
     background: #262e2f !important;
     color: white !important;
