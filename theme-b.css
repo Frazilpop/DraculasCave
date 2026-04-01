@@ -214,7 +214,7 @@ text-align: left;
 }
 @media (max-width: 767px) {
   .intro-bubble {
-    text-align: center !important;  
+    text-align: left !important;  
   }
 }
 .software-spacer {
